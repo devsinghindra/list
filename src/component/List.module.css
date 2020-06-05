@@ -1,0 +1,15 @@
+.container {
+  border: 2px solid black;
+  width: 400px;
+  height: 500px;
+}
+
+.input {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 10px;
+}
+
+.box {
+  width: 250px;
+}
